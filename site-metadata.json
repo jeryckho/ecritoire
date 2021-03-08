@@ -1,0 +1,65 @@
+{
+    "palette": "blue",
+    "header": {
+        "title": "Ecritoire",
+        "logo_img": "images/logo.svg",
+        "logo_img_alt": "Ecritoire",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Chapitres",
+                "url": "#",
+                "style": "link",
+                "has_subnav": true,
+                "subnav_links": [
+                    {
+                        "label": "Bordēn",
+                        "url": "/borden",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Elémentaire",
+                        "url": "/elementaire",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Une veille de Nöel",
+                        "url": "/xmas-day",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Le Projet Esprit",
+                        "url": "/le-projet-esprit",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Les Voyages de Nils",
+                        "url": "/les-voyages-de-nils",
+                        "style": "link"
+                    },
+                    {
+                        "label": "La Reine des Licornes",
+                        "url": "/licornes",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Brouillons",
+                        "url": "/brouillons",
+                        "style": "link"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Ecritoire. All rights reserved.",
+        "has_social": false
+    },
+    "title": "Ecritoire"
+}
