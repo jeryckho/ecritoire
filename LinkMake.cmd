@@ -5,3 +5,7 @@ mklink /J src\markdown\le-projet-esprit L:\Dropbox\Jey\Ecriture\LeProjetEsprit
 mklink /J src\markdown\les-voyages-de-nils L:\Dropbox\Jey\Ecriture\nils
 mklink /J src\markdown\licornes L:\Dropbox\Jey\Ecriture\Licornes
 mklink /J src\markdown\xmas-day L:\Dropbox\Jey\Ecriture\XmasDay
+mklink /J src\markdown\un-enfant-de-la-dague L:\Dropbox\Jey\Ecriture\dague
+mklink /J src\markdown\les-demenageurs L:\Dropbox\Jey\Ecriture\demenageurs
+mklink /J src\markdown\3652 L:\Dropbox\Jey\Ecriture\3652
+mklink /J src\markdown\le-projet-maestro L:\Dropbox\Jey\Ecriture\maestro

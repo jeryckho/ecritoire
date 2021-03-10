@@ -5,3 +5,7 @@ rd src\markdown\le-projet-esprit
 rd src\markdown\les-voyages-de-nils
 rd src\markdown\licornes
 rd src\markdown\xmas-day
+rd src\markdown\un-enfant-de-la-dague
+rd src\markdown\les-demenageurs
+rd src\markdown\3652
+rd src\markdown\le-projet-maestro

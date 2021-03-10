@@ -97,6 +97,30 @@ const Index = ({ data }) => {
 				content: "Pas facile d'être la Reine..."
 			},
 			{
+				title : 'Un Enfant de la Dague',
+				title_url: "/un-enfant-de-la-dague/chapitre-1",
+				image: "images/dague.svg",
+				content: "La naissance de Niram"
+			},
+			{
+				title : 'Les Déménageurs',
+				title_url: "/les-demenageurs/chapitre-1",
+				image: "images/demenageurs.svg",
+				content: "Une promenade en forêt"
+			},
+			{
+				title : '3652',
+				title_url: "/3652/chapitre-1",
+				image: "images/3652.svg",
+				content: "Bienvenue à Indians Fall"
+			},
+			{
+				title : 'Le Projet Maestro',
+				title_url: "/le-projet-maestro/chapitre-1",
+				image: "images/maestro.svg",
+				content: "Juste une bande de geeks"
+			},
+			{
 				title : 'Brouillons',
 				title_url: "/brouillons/",
 				image: "images/brouillons.svg",

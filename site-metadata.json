@@ -49,6 +49,26 @@
                         "style": "link"
                     },
                     {
+                        "label": "Un Enfant de la Dague",
+                        "url": "/un-enfant-de-la-dague",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Les Déménageurs",
+                        "url": "/les-demenageurs",
+                        "style": "link"
+                    },
+                    {
+                        "label": "3652",
+                        "url": "/3652",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Le Projet Maestro",
+                        "url": "/le-projet-maestro",
+                        "style": "link"
+                    },
+                    {
                         "label": "Brouillons",
                         "url": "/brouillons",
                         "style": "link"
